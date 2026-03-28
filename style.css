@@ -1,0 +1,53 @@
+body{
+    color:#009933 ;
+    font-size: 14px ;
+    font-family: Arial ;
+}
+p{
+    letter-spacing: 10px ;
+}
+.kursiv{
+    font-style: italic;
+    text-decoration: underline;
+}
+.ooo{
+    font-family: Comic Sans;
+    font-size: 25px ;
+    text-indent: 50px;
+}
+.rich{
+    font-family: Arial;
+    font-weight: bold;
+    font-style: italic;
+    color: orange;
+    line-height: 25;
+}
+.perenos{
+    white-space: nowrap;
+}
+.red{
+    color: #FF0000;
+    text-decoration: uppercase;
+}
+.lll{
+    font-family: Courier;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 200%;
+    text-decoration: underline;
+    text-indent: 2cm;
+    line-height: 2;
+}
+.kkk{
+    color: aqua;
+    font-size: x-large;
+    font-style: inherit;
+    letter-spacing: 10px;
+}
+.www{
+    font-family: Cambria;
+    text-decoration: overline;
+    color: brown;
+    letter-spacing: 5px;
+    text-shadow: #009933;
+}
